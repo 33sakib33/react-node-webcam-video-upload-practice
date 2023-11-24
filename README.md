@@ -4,6 +4,7 @@
 ```bash
 cd video_stuff 
 npm i
+npm start
 ```
 
 
@@ -11,6 +12,7 @@ npm i
 ```bash
 cd backend_stuff
 npm i
+node testbackend.js
 ```
 
 
