@@ -15,4 +15,4 @@ npm i
 node testbackend.js
 ```
 
-
+### check out the documentations of this package: https://www.npmjs.com/package/react-record-webcam
