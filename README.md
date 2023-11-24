@@ -1,8 +1,10 @@
 # react-node-webcam-video-upload-practice
 
 ## for frontend 
-### npm i <frontend-folder>
+cd video_stuff 
+npm i 
 
 
 ## for backend 
-### npm i <backend-folder>
+cd backend_stuff
+npm i
